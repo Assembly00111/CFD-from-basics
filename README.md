@@ -109,4 +109,4 @@ When you refine the cavity grid, reduce `dt` so it stays under `h²/(4ν)` and `
 
 ## License
 
-Add the licence of your choice (e.g. MIT) as `LICENSE`.
+MIT
